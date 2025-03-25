@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2025-01-01
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Translation services
 ---
+
+Throughout my career as a translator, I have bridged cultural and linguistic divides by delivering precise and contextually rich translations for a diverse array of clients. My work has spanned various industries, including legal, technical, business, and creative sectors, enabling me to develop a nuanced understanding of each field's specific vocabulary and stylistic requirements. This experience has honed my ability to maintain the original tone and intent of the source material while ensuring that the translated content resonates with its intended audience.
+
+I have been responsible for translating a wide range of documents, from complex technical manuals to dynamic marketing materials, ensuring accuracy and clarity in every project. My approach is rooted in meticulous research and a deep familiarity with the cultural contexts of both the source and target languages. This rigorous attention to detail has allowed me to deliver work that not only meets but often exceeds client expectations, fostering strong professional relationships and a reputation for reliability.
+
+In addition to my translation work, I have continuously invested in expanding my linguistic skills and staying abreast of industry trends and innovations. This ongoing commitment to professional development has enabled me to handle even the most challenging projects with confidence. By combining my expertise with an adaptable mindset, I have become a trusted partner for clients seeking to effectively communicate across language barriers, ultimately contributing to smoother international collaborations and enriched cultural exchanges.

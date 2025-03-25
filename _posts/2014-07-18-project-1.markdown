@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2025-01-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: English Teacher
 ---
+
+My extensive background in teaching English has allowed me to develop a dynamic and adaptable teaching style, honed through diverse experiences across the United States, Brazil, Canada, and Argentina. In the US, I refined my skills in tailoring lessons to meet the unique needs of students from varied cultural and educational backgrounds. This experience deepened my understanding of the importance of creating an engaging, student-centered learning environment where language acquisition is both enjoyable and effective.
+
+During my time teaching in Brazil, I embraced the vibrant cultural diversity and linguistic challenges that come with teaching a language so different from Portuguese. I employed creative, culturally sensitive strategies to design curricula that not only improved language fluency but also built strong cross-cultural connections. This role helped me to cultivate a deep respect for the nuances of language learning and the importance of adapting my teaching methods to bridge cultural and linguistic gaps.
+
+My experiences in Canada and Argentina further enriched my teaching philosophy by integrating diverse educational practices from North American and Latin American contexts. In these countries, I successfully combined collaborative learning with practical language applications to foster both academic and real-world communication skills. This international exposure has solidified my reputation as an adaptable, passionate, and results-driven educator, dedicated to empowering students to achieve excellence in English language proficiency.
+
+```
+
